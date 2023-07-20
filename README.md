@@ -1,20 +1,4 @@
-<<<<<<< HEAD
-# mqtt_ui
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Flutter-MQTT-Messaing
->>>>>>> origin/main
+This is a flutter app for MQTT Messaging. We can enter the hostname, topic, phone number and message. If the topic is 'sms', it will also send an sms to the specified phone number using telephony.
+![image](https://github.com/Niescte/Flutter-MQTT-Messaing/assets/115103069/0d7c11ec-b99e-4d62-8e30-38fc913ff9fb)
+![image](https://github.com/Niescte/Flutter-MQTT-Messaing/assets/115103069/e9db861d-524a-4040-b1bd-029e652f2075)
+![image](https://github.com/Niescte/Flutter-MQTT-Messaing/assets/115103069/588de30d-f0b7-4494-984a-28235d9a8a25)
